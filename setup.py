@@ -25,7 +25,7 @@ def get_requirements(file_path:str)->List[str]:
 setup(
 
 
-name='dataproject',
+name='datascienceproject',
 version='0.0.1',
 author='nehal',
 author_email='bittu.sonulkar@gmail.com',
